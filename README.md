@@ -83,6 +83,6 @@ joblib
 ## 🙌 Author
 
 **Jeet Shah**
-[LinkedIn](https://www.linkedin.com/in/jeetshah2087) | [GitHub](https://github.com/SJ-ShahJeet)
+[LinkedIn](https://www.linkedin.com/in/sj-shahjeet/) | [GitHub](https://github.com/SJ-ShahJeet)
 
 Feel free to fork, star, or contribute! ⭐
