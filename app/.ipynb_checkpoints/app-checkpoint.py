@@ -1,9 +1,10 @@
 import streamlit as st
-import joblib
 import numpy as np
+import xgboost as xgb
 
-# Load model
-model = joblib.load("model/triage_model.pkl")
+model = xgb.XGBClassifier()
+model.load_model("model/triage_model.json")
+
 
 st.set_page_config(page_title="Triage Assistant", layout="centered")
 
